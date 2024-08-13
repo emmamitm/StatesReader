@@ -1,0 +1,3 @@
+/Users/emmamitchell/StatesReader/cmake-build-debug/CMakeFiles/StatesReader.dir
+/Users/emmamitchell/StatesReader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emmamitchell/StatesReader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
