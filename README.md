@@ -1,4 +1,6 @@
-# StatesReader
+# USA: State Data Interpreter
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/47e8bc08-0ada-429f-a9e2-d0f74c7044ee">
+
 The StatesReader is a project written in C++ that reads and interprets data from a CSV file. It features functionality for handling data related to different states such as population, per capita income, number of households, and median household income. It also has an additional function for generating random numbers.
 ## Features
 Reads data from a CSV file - the file should contain data on states, their population, per capita income, number of households, and median household income.
